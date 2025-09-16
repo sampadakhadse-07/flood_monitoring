@@ -1,0 +1,11 @@
+image_file,water_level,status,confidence,scale_regions,brightness
+scale_image_01.jpg,51.89,WARNING,85,3,125.0
+scale_image_02.jpg,51.47,WARNING,70,0,151.8
+scale_image_03.jpg,51.24,WARNING,70,0,137.0
+scale_image_04.jpg,56.29,WARNING,70,0,151.0
+scale_image_05.jpg,53.32,WARNING,70,0,151.2
+scale_image_06.jpg,38.2,NORMAL,85,3,103.3
+scale_image_07.jpg,41.4,NORMAL,90,4,101.0
+scale_image_08.jpg,38.84,NORMAL,70,0,107.2
+scale_image_09.jpg,37.96,NORMAL,70,0,107.5
+scale_image_10.jpg,42.41,NORMAL,70,0,136.3

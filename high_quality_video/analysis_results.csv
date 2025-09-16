@@ -1,0 +1,11 @@
+image,water_level,status,confidence
+scale_image_01.jpg,36.32,NORMAL,85.2
+scale_image_02.jpg,43.54,NORMAL,90.3
+scale_image_03.jpg,46.93,WARNING,97.2
+scale_image_04.jpg,50.87,WARNING,88.3
+scale_image_05.jpg,59.08,DANGER,93.0
+scale_image_06.jpg,61.0,DANGER,94.4
+scale_image_07.jpg,33.21,NORMAL,91.7
+scale_image_08.jpg,44.89,NORMAL,91.2
+scale_image_09.jpg,60.27,DANGER,96.7
+scale_image_10.jpg,68.32,DANGER,97.0
