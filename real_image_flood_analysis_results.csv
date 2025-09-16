@@ -1,0 +1,7 @@
+TimeStamp,Actual_Distance,Detected_Distance,Detection_Error,Status,Risk_Level,Color,Image_Path
+16-09-2024_08-30-15.jpg,50.9,50.5,0.3999999999999986,Safe (Green),GREEN,green,sample_flood_images/16-09-2024_08-30-15.jpg
+16-09-2024_09-15-22.jpg,51.2,50.5,0.7000000000000028,Safe (Green),GREEN,green,sample_flood_images/16-09-2024_09-15-22.jpg
+16-09-2024_10-45-33.jpg,51.4,50.5,0.8999999999999986,Safe (Green),GREEN,green,sample_flood_images/16-09-2024_10-45-33.jpg
+16-09-2024_12-20-45.jpg,51.7,50.5,1.2000000000000028,Safe (Green),GREEN,green,sample_flood_images/16-09-2024_12-20-45.jpg
+16-09-2024_14-30-12.jpg,52.0,50.5,1.5,Safe (Green),GREEN,green,sample_flood_images/16-09-2024_14-30-12.jpg
+16-09-2024_16-45-28.jpg,52.2,50.5,1.7000000000000028,Safe (Green),GREEN,green,sample_flood_images/16-09-2024_16-45-28.jpg
