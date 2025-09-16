@@ -1,0 +1,58 @@
+{
+  "video_path": "flood_video_output/flood_monitoring_demo_20250916_091111.mp4",
+  "total_frames": 6,
+  "fps": 2,
+  "duration_seconds": 3.0,
+  "analysis_results": [
+    {
+      "water_level": 50.0,
+      "status": "danger",
+      "risk_level": "High",
+      "analysis_success": true,
+      "method": "real_analyzer"
+    },
+    {
+      "water_level": 50.8,
+      "status": "danger",
+      "risk_level": "High",
+      "analysis_success": true,
+      "method": "real_analyzer"
+    },
+    {
+      "water_level": 50.0,
+      "status": "danger",
+      "risk_level": "High",
+      "analysis_success": true,
+      "method": "real_analyzer"
+    },
+    {
+      "water_level": 51.5,
+      "status": "warning",
+      "risk_level": "Medium",
+      "analysis_success": true,
+      "method": "real_analyzer"
+    },
+    {
+      "water_level": 51.6,
+      "status": "warning",
+      "risk_level": "Medium",
+      "analysis_success": true,
+      "method": "real_analyzer"
+    },
+    {
+      "water_level": 51.9,
+      "status": "warning",
+      "risk_level": "Medium",
+      "analysis_success": true,
+      "method": "real_analyzer"
+    }
+  ],
+  "image_paths": [
+    "sample_flood_images/16-09-2024_08-30-15.jpg",
+    "sample_flood_images/16-09-2024_09-15-22.jpg",
+    "sample_flood_images/16-09-2024_10-45-33.jpg",
+    "sample_flood_images/16-09-2024_12-20-45.jpg",
+    "sample_flood_images/16-09-2024_14-30-12.jpg",
+    "sample_flood_images/16-09-2024_16-45-28.jpg"
+  ]
+}
